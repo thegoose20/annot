@@ -1,0 +1,13 @@
+,expected,predicted,label,true_positive,false_positive,false_negative,precision,recall,F_1,total_files_compared
+0,Annotator 0,Annotator 0,Occupation,2725,23,571,0.991630277,0.826759709,0.901720715,631
+1,Annotator 0,Annotator 3,Occupation,2320,290,873,0.888888889,0.726589414,0.799586421,508
+2,Annotator 0,Annotator 4,Occupation,1746,147,253,0.922345483,0.873436718,0.897225077,450
+3,Annotator 0,Annotator 0,Omission,5916,12,1187,0.997975709,0.832887512,0.907988642,631
+4,Annotator 0,Annotator 3,Omission,2310,13,3475,0.994403788,0.399308557,0.569807597,508
+5,Annotator 0,Annotator 4,Omission,1876,5,967,0.997341839,0.659866338,0.794242168,450
+6,Annotator 0,Annotator 0,Stereotype,1748,11,1058,0.993746447,0.62295082,0.765826944,631
+7,Annotator 0,Annotator 3,Stereotype,1089,9,279,0.991803279,0.796052632,0.883211679,508
+8,Annotator 0,Annotator 4,Stereotype,1400,2,715,0.998573466,0.661938534,0.796133068,450
+9,Annotator 0,Annotator 0,Empowering,0,0,0,-,-,-,631
+10,Annotator 0,Annotator 3,Empowering,0,80,0,0,-,0,508
+11,Annotator 0,Annotator 4,Empowering,0,0,0,-,-,-,450
