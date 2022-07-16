@@ -22,7 +22,7 @@ Gendered and Gender Biased Language
 ```
 
 #### Table of Contents
-* [Directory structure](#directory-structure)
+* [Directory Structure](#directory-structure)
 * [Contents](#contents)
 * [Associated Resources](#associated-resources)
 * [License and Citation](#license-and-citation)
