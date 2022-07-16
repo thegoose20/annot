@@ -22,13 +22,12 @@ Gendered and Gender Biased Language
 ```
 
 #### Table of Contents
-* [License](#license)
 * [Directory structure](#directory-structure)
 * [Contents](#contents)
 * [Associated Resources](#associated-resources)
 * [License and Citation](#license-and-citation)
 
-## Directory Strucutre
+## Directory Structure
 ```
 annot/
 ├── AnnotationInstructions.docx
