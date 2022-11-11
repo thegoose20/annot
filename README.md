@@ -68,9 +68,9 @@ annot/
 @inproceedings{havens-etal-2022-uncertainty,
     title = "Uncertainty and Inclusivity in Gender Bias Annotation: An Annotation Taxonomy and Annotated Datasets of {B}ritish {E}nglish Text",
     author = "Havens, Lucy  and
-      Alex, Beatrice  and
+      Terras, Melissa and
       Bach, Benjamin  and
-      Terras, Melissa",
+      Alex, Beatrice",
     booktitle = "Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing (GeBNLP)",
     month = jul,
     year = "2022",
