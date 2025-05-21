@@ -57,6 +57,7 @@ annot/
 
 * Data source: [Archives Online, Centre for Research Collections, University of Edinburgh](archives.collections.ed.ac.uk)
 * Dataset preparation repository: [annot-prep](https://github.com/thegoose20/annot-prep)
+* Datasets: available [here](https://doi.org/10.7488/ds/7540) in the Edinburgh DataShare
 * Publications:
   * Research methodology: [Situated Data, Situated Systems: A Methodology to Engage with Power Relations in Natural Language Processing Research](https://aclanthology.org/2020.gebnlp-1.10/)
   * Annotation taxonomy and data creation: [Uncertainty and Inclusivity in Gender Bias Annotation: An Annotation Taxonomy and Annotated Datasets of British English Text](https://aclanthology.org/2022.gebnlp-1.4/)
